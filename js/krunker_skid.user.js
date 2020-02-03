@@ -5,7 +5,7 @@
 // @icon64       https://pbs.twimg.com/profile_images/931401544129318913/10UTQJ_n_400x400.jpg
 // @version      1.9.6.4
 // @description  Australia On Fire
-// @author       Skid Lamer
+// @author       Brady Cheat
 // @match        *://krunker.io/*
 // @require      https://DevineAssuming.github.io/js/FileSaver.js
 // @run-at       document-start
